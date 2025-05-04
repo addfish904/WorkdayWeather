@@ -2,7 +2,7 @@
 
 [![GitHub Pages Deploy](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://addfish904.github.io/WorkdayWeather/)
 
-**線上體驗 Demo:** [https://ayating.github.io/WorkdayWeather/](https://ayating.github.io/WorkdayWeather/)
+**線上體驗 Demo:** [https://addfish904.github.io/WorkdayWeather/](https://addfish904.github.io/WorkdayWeather/)
 
 _（後端部署於 Render 免費方案，若初次載入或聊天室回應較慢，請稍候幾秒鐘讓服務喚醒）_
 
