@@ -1,6 +1,6 @@
 # Workday Weather - 即時天氣與聊天室互動平台
 
-[![GitHub Pages Deploy](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://ayating.github.io/WorkdayWeather/)
+[![GitHub Pages Deploy](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://addfish904.github.io/WorkdayWeather/)
 
 **線上體驗 Demo:** [https://ayating.github.io/WorkdayWeather/](https://ayating.github.io/WorkdayWeather/)
 
